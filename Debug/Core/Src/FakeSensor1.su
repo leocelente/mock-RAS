@@ -1,0 +1,2 @@
+FakeSensor1.c:11:5:sensor1_init	8	static
+FakeSensor1.c:16:5:sensor1_get	16	static

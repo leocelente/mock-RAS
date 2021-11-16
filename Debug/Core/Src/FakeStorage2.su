@@ -1,0 +1,2 @@
+FakeStorage2.c:11:5:storage2_init	8	static
+FakeStorage2.c:16:5:storage2_save	16	static

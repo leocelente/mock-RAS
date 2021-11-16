@@ -1,0 +1,10 @@
+Fake.c:10:5:sensor1_init	8	static
+Fake.c:16:5:sensor1_get	16	static
+Fake.c:23:5:sensor2_init	8	static
+Fake.c:28:5:sensor2_get	16	static
+Fake.c:36:5:storage1_init	8	static
+Fake.c:41:5:storage1_save	16	static
+Fake.c:48:5:storage2_init	8	static
+Fake.c:53:5:storage2_save	16	static
+Fake.c:61:5:actuator_get	4	static
+Fake.c:66:5:actuator_set	16	static
